@@ -4,12 +4,6 @@ title: Impressum und Datenschutz
 permalink: /imprint
 ---
 
-#### German Imprint
-This imprint & privacy note is in German, as I (Per Starke, the responsible person) am German, and it's therefore
-required by German Law. Contact me or use translation tools for an english version. 
-
-<hr>
-
 #### Anbieter und Verantwortliche Person
 Per Starke, Willi-Lauf Allee 43, D-50858 Köln
 
@@ -68,6 +62,11 @@ Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konk
 Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers. Downloads und Kopien dieser Seite sind nur für den privaten, nicht kommerziellen Gebrauch gestattet.
 
 Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+#### Lizenz für Schriftarten
+Auf dieser Seite werden teilweise Google Fonts verwendet.
+Diese werden lokal gehostet, somit werden keinerlei Daten weitergegeben.
+Die verwendeten Google Fonts Anton und Inter unterliegen der [Open Font License](https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL). 
 
 #### Datenschutzerklärung für die Nutzung von FontAwesome
 Auf unseren Seiten verwenden wir grafische Symbole von FontAwesome,
